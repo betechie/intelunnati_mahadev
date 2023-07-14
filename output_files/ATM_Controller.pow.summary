@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Wed Jul 12 23:11:21 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ATM_Controller
+Top-level Entity Name : ATM_Controller
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Power Models : Final
+Total Thermal Power Dissipation : 421.89 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 411.24 mW
+I/O Thermal Power Dissipation : 10.66 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

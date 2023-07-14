@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/unnati/simulation/modelsim
+vATM_Controller
+Z1 !s110 1689318062
+!i10b 1
+!s100 CFGPjn?Bo]n_Cb<zgbe[_0
+I`:45=_k8bO:Ej_<l805ZN2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1686907210
+8D:/unnati/ATM_Controller.v
+FD:/unnati/ATM_Controller.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1689318062.000000
+!s107 D:/unnati/ATM_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/unnati|D:/unnati/ATM_Controller.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/unnati
+Z7 tCvgOpt 0
+n@a@t@m_@controller
+vATM_Controller_Testbench
+R1
+!i10b 1
+!s100 0;ijVKfz3YV1eAGk3k:Gk1
+IYi39L[JnCQ0`96eW9?4LL1
+R2
+R0
+w1686907340
+8D:/unnati/ATM_Controller_Testbench.v
+FD:/unnati/ATM_Controller_Testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/unnati/ATM_Controller_Testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/unnati|D:/unnati/ATM_Controller_Testbench.v|
+!i113 1
+R5
+R6
+R7
+n@a@t@m_@controller_@testbench
